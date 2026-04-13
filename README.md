@@ -3,7 +3,7 @@
 Welcome to my site.
 
 ## 🚀 Projects
-- imageditor.net (AI image editor)
+- [AI image editor](https://imageditor.net)
 
 ## ✍️ Blog
 Coming soon...
